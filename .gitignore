@@ -1,2 +1,2 @@
-
-AI_tests/openai-key.txt
+__pycache__/
+*.py[cod]
